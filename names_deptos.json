@@ -1,0 +1,2804 @@
+{
+    "data": [
+        {
+            "id": "848c087f-5b27-4dc9-8467-bf091b9e05ce",
+            "name": "1 - Identificação / Cadastral",
+            "nameKey": "848c087f-5b27-4dc9-8467-bf091b9e05ce",
+            "description": null,
+            "descriptionKey": null,
+            "source": "Unknown",
+            "dataElements": [
+                {
+                    "id": "98418fb6-95a5-444f-abeb-947166547715",
+                    "name": "Assinatura/rúbrica",
+                    "nameKey": "98418fb6-95a5-444f-abeb-947166547715",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "3441b10f-bb96-4862-b43a-ff7ef24f6d37",
+                    "name": "Bairro",
+                    "nameKey": "3441b10f-bb96-4862-b43a-ff7ef24f6d37",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "6fd8e52a-1537-4cc8-b5be-c2d0cc9809dd",
+                    "name": "Biometria",
+                    "nameKey": "6fd8e52a-1537-4cc8-b5be-c2d0cc9809dd",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "28cd0705-94f5-4088-8524-123653848c4e",
+                    "name": "Biometria Facial",
+                    "nameKey": "28cd0705-94f5-4088-8524-123653848c4e",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "f08b1711-78c5-46f9-9220-98d6aaae1d9b",
+                    "name": "Biometria da íris e/ou retina",
+                    "nameKey": "f08b1711-78c5-46f9-9220-98d6aaae1d9b",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "786071c4-6567-43f2-83fc-02a21b65bb7c",
+                    "name": "CEP",
+                    "nameKey": "786071c4-6567-43f2-83fc-02a21b65bb7c",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "a24af2bc-bd90-4ba6-b937-f1cf55c89cf1",
+                    "name": "CNH",
+                    "nameKey": "a24af2bc-bd90-4ba6-b937-f1cf55c89cf1",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "94c57629-7d0a-49a1-a1ec-76f1467bb054",
+                    "name": "CNIS",
+                    "nameKey": "94c57629-7d0a-49a1-a1ec-76f1467bb054",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "5686b656-da26-404e-a8e9-0abf22112908",
+                    "name": "CPF",
+                    "nameKey": "5686b656-da26-404e-a8e9-0abf22112908",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "b1402bb1-0714-4d06-a675-55560f61f7fd",
+                    "name": "CTPS (Carteira de trabalho)",
+                    "nameKey": "b1402bb1-0714-4d06-a675-55560f61f7fd",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "e5d76eed-2e85-4771-b116-b79b19b87cc0",
+                    "name": "Carteira do SUS",
+                    "nameKey": "e5d76eed-2e85-4771-b116-b79b19b87cc0",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "562af551-f020-4567-962b-6a116250aedb",
+                    "name": "Certidão INSS",
+                    "nameKey": "562af551-f020-4567-962b-6a116250aedb",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "470e6945-c31b-4462-8353-7f8f94c97ece",
+                    "name": "Certidão de Nascimento",
+                    "nameKey": "470e6945-c31b-4462-8353-7f8f94c97ece",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "054fd025-2e49-478a-a322-d16286dde17e",
+                    "name": "Cidade",
+                    "nameKey": "054fd025-2e49-478a-a322-d16286dde17e",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "fb82dd72-8e25-4ceb-bf18-b3b5b27f2a0c",
+                    "name": "Codigo do Cliente",
+                    "nameKey": "fb82dd72-8e25-4ceb-bf18-b3b5b27f2a0c",
+                    "description": "Codigo do Cliente",
+                    "descriptionKey": "fb82dd72-8e25-4ceb-bf18-b3b5b27f2a0cDesc",
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "68401cad-b340-4d5f-82ed-1b4fc7fd6dfe",
+                    "name": "Comprovante de endereço",
+                    "nameKey": "68401cad-b340-4d5f-82ed-1b4fc7fd6dfe",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "f0ad0b59-994b-4e59-a2e0-a46080d808ff",
+                    "name": "Condição de refugiado",
+                    "nameKey": "f0ad0b59-994b-4e59-a2e0-a46080d808ff",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "083798fd-6275-4f4b-bdc5-c9162824b28a",
+                    "name": "Cópia física de documentação pessoal (RG, CNH, CTPS, certidão de nasc., passaporte, etc.)",
+                    "nameKey": "083798fd-6275-4f4b-bdc5-c9162824b28a",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "26747c03-b061-4a36-b2b5-61e7fbf6aeab",
+                    "name": "Data de expedição do documento de identificação",
+                    "nameKey": "26747c03-b061-4a36-b2b5-61e7fbf6aeab",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "bbd9d343-cd35-483d-8fa1-c26e694fb0df",
+                    "name": "Data de nascimento",
+                    "nameKey": "bbd9d343-cd35-483d-8fa1-c26e694fb0df",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "a9d87f3f-d1cb-42dc-a305-7299c138a801",
+                    "name": "E-Social",
+                    "nameKey": "a9d87f3f-d1cb-42dc-a305-7299c138a801",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "167ec913-b208-4a6a-9150-7a1c73f0b209",
+                    "name": "E-mail Pessoal",
+                    "nameKey": "167ec913-b208-4a6a-9150-7a1c73f0b209",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "c3a7601b-4ff2-448f-86f6-e9381445c463",
+                    "name": "Endereço",
+                    "nameKey": "c3a7601b-4ff2-448f-86f6-e9381445c463",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "1bad150f-3360-4285-bec7-f7b80db1ee89",
+                    "name": "Endereço de residência anterior",
+                    "nameKey": "1bad150f-3360-4285-bec7-f7b80db1ee89",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "2f0b7ef1-751b-4212-b970-6c29bf554db6",
+                    "name": "Estado Civil",
+                    "nameKey": "2f0b7ef1-751b-4212-b970-6c29bf554db6",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "f41161d2-137b-4ee8-abc9-dfc3ddf04460",
+                    "name": "Faixa etária",
+                    "nameKey": "f41161d2-137b-4ee8-abc9-dfc3ddf04460",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "5ba47010-fdff-4bbc-ba02-a2262194296a",
+                    "name": "Filiação (nome pai/mãe)",
+                    "nameKey": "5ba47010-fdff-4bbc-ba02-a2262194296a",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "4fdc6c78-82b2-4efb-bbc3-4cbda6f0a139",
+                    "name": "Foto",
+                    "nameKey": "4fdc6c78-82b2-4efb-bbc3-4cbda6f0a139",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "c2c9ab65-2ac4-4b82-b560-86cd3af8a6e3",
+                    "name": "Histórico de promoções",
+                    "nameKey": "c2c9ab65-2ac4-4b82-b560-86cd3af8a6e3",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "5b4efefb-ae32-4a35-a959-db4958411170",
+                    "name": "Idade",
+                    "nameKey": "5b4efefb-ae32-4a35-a959-db4958411170",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "309a93c9-8116-4033-9b7b-25d6b7907ae4",
+                    "name": "Identidade de gênero",
+                    "nameKey": "309a93c9-8116-4033-9b7b-25d6b7907ae4",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "8617975d-2f7f-471d-964d-1502f19a96b2",
+                    "name": "Impressão digital",
+                    "nameKey": "8617975d-2f7f-471d-964d-1502f19a96b2",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "64c47b73-886c-4a22-bc2f-9e1e91bd18cb",
+                    "name": "Iniciais do nome",
+                    "nameKey": "64c47b73-886c-4a22-bc2f-9e1e91bd18cb",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "d7a76b0c-bcd6-4ff3-8ff1-dc970f9accc0",
+                    "name": "Local de Nascimento",
+                    "nameKey": "d7a76b0c-bcd6-4ff3-8ff1-dc970f9accc0",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "5c69338b-0416-4a94-a5bc-730f28d65f72",
+                    "name": "Nacionalidade",
+                    "nameKey": "5c69338b-0416-4a94-a5bc-730f28d65f72",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "10444716-b5d1-46fc-8010-46331989d761",
+                    "name": "Nome completo",
+                    "nameKey": "10444716-b5d1-46fc-8010-46331989d761",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "8fccc552-6138-41e3-8486-3da3c1e825bc",
+                    "name": "Número do Passaporte",
+                    "nameKey": "8fccc552-6138-41e3-8486-3da3c1e825bc",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "34e498b0-15d1-4dfb-b742-d76c26d45b3d",
+                    "name": "Obituário",
+                    "nameKey": "34e498b0-15d1-4dfb-b742-d76c26d45b3d",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "e0b4710a-9205-46a8-ad3a-64f30a6bd1a0",
+                    "name": "Placa do Veículo",
+                    "nameKey": "e0b4710a-9205-46a8-ad3a-64f30a6bd1a0",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "6decf726-4698-4df0-838c-12331acb915d",
+                    "name": "Primeiro Nome",
+                    "nameKey": "6decf726-4698-4df0-838c-12331acb915d",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "719e2177-2b38-4f2d-9645-14f16afff161",
+                    "name": "RG",
+                    "nameKey": "719e2177-2b38-4f2d-9645-14f16afff161",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "e304edfb-2141-4eaa-9246-9abce71bb1ed",
+                    "name": "RNE - Registro Nacional de Estrangeiro",
+                    "nameKey": "e304edfb-2141-4eaa-9246-9abce71bb1ed",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "3e9864b4-1e38-413a-8ef0-bb42e97b78e1",
+                    "name": "Raça ou Origem Etnica",
+                    "nameKey": "3e9864b4-1e38-413a-8ef0-bb42e97b78e1",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "0c4a1cc1-f9f2-4d14-b473-08056b0afacb",
+                    "name": "Reconhecimento de voz",
+                    "nameKey": "0c4a1cc1-f9f2-4d14-b473-08056b0afacb",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "c7b22260-01e1-40db-994a-7aa96f951b62",
+                    "name": "Reservista",
+                    "nameKey": "c7b22260-01e1-40db-994a-7aa96f951b62",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "b6142044-d5d8-4bb0-9180-35224dfe6415",
+                    "name": "Segmentação do Cliente",
+                    "nameKey": "b6142044-d5d8-4bb0-9180-35224dfe6415",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "fdf2af78-d9ce-4fd9-b410-dd1bb13d4a88",
+                    "name": "Sexo",
+                    "nameKey": "fdf2af78-d9ce-4fd9-b410-dd1bb13d4a88",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "9ea48680-eb5e-42ba-a22e-3a6ceef41ded",
+                    "name": "Sexo/gênero",
+                    "nameKey": "9ea48680-eb5e-42ba-a22e-3a6ceef41ded",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "549101a2-9eea-4bb2-a66c-074bd820347b",
+                    "name": "Sobrenome",
+                    "nameKey": "549101a2-9eea-4bb2-a66c-074bd820347b",
+                    "description": "Sobrenome",
+                    "descriptionKey": "549101a2-9eea-4bb2-a66c-074bd820347bDesc",
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "7529daa5-6180-4e39-8dfd-ae2162465401",
+                    "name": "Status social",
+                    "nameKey": "7529daa5-6180-4e39-8dfd-ae2162465401",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "a3be158e-9877-49d2-84df-df527d201457",
+                    "name": "Telefone Residencial",
+                    "nameKey": "a3be158e-9877-49d2-84df-df527d201457",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "b569f211-251f-40c4-aeed-9e3bf9b07ec9",
+                    "name": "Telefone celular",
+                    "nameKey": "b569f211-251f-40c4-aeed-9e3bf9b07ec9",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "15966e4e-f422-4bdb-b26b-c52ea835388c",
+                    "name": "Título de eleitor",
+                    "nameKey": "15966e4e-f422-4bdb-b26b-c52ea835388c",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "ebbb742d-58cf-4fa4-b110-343b15ddfd69",
+                    "name": "UF (Endereço Residencial)",
+                    "nameKey": "ebbb742d-58cf-4fa4-b110-343b15ddfd69",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "3688b1ce-e0da-43ea-bdb4-4aec8ebbbdd0",
+                    "name": "UF Nascimento",
+                    "nameKey": "3688b1ce-e0da-43ea-bdb4-4aec8ebbbdd0",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "4fccf002-cf2c-447a-bd42-19d4b968622a",
+                    "name": "Usuário de sistema/aplicativo",
+                    "nameKey": "4fccf002-cf2c-447a-bd42-19d4b968622a",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                }
+            ]
+        },
+        {
+            "id": "62d563d2-80fa-45c1-a058-6617f0d3ce33",
+            "name": "2 - Dependentes",
+            "nameKey": "62d563d2-80fa-45c1-a058-6617f0d3ce33",
+            "description": null,
+            "descriptionKey": null,
+            "source": "Unknown",
+            "dataElements": [
+                {
+                    "id": "85a21e2f-d69f-472a-87e5-945f21b7e980",
+                    "name": "CPF do filho(a)",
+                    "nameKey": "85a21e2f-d69f-472a-87e5-945f21b7e980",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "0df5eb29-4d6b-42b3-9a83-b19a818fda83",
+                    "name": "Certidão de casamento ou união estável",
+                    "nameKey": "0df5eb29-4d6b-42b3-9a83-b19a818fda83",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "d72ddbda-1b4b-46d7-9f91-df463e6ba0d6",
+                    "name": "Certidão de nascimento do filho(a)",
+                    "nameKey": "d72ddbda-1b4b-46d7-9f91-df463e6ba0d6",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "1589be5b-e06c-46c1-99cc-9aac290607a2",
+                    "name": "Certidão de óbito",
+                    "nameKey": "1589be5b-e06c-46c1-99cc-9aac290607a2",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "00340f68-062a-41e1-9174-5de902139588",
+                    "name": "Comprovante / frequência escolar",
+                    "nameKey": "00340f68-062a-41e1-9174-5de902139588",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "f3200c21-b402-4563-86e1-244a7d3666a4",
+                    "name": "Data de nascimento do filho(a)",
+                    "nameKey": "f3200c21-b402-4563-86e1-244a7d3666a4",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "49dc6a1b-21e6-4c17-bfeb-84bcf123a069",
+                    "name": "Email do filho(a)",
+                    "nameKey": "49dc6a1b-21e6-4c17-bfeb-84bcf123a069",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "526986bd-3c3c-41d3-9b7f-e4bac76e2541",
+                    "name": "Endereço do Filho(a)",
+                    "nameKey": "526986bd-3c3c-41d3-9b7f-e4bac76e2541",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "7ff14a9b-6b21-4fd7-ba94-835dc0a05344",
+                    "name": "Idade (Filhos)",
+                    "nameKey": "7ff14a9b-6b21-4fd7-ba94-835dc0a05344",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "27318f56-7058-474c-8537-1f5eed51d5b4",
+                    "name": "Informação cadastral (nome completo, data de nascimento, RG, CPF, endereço, e-mail, etc)",
+                    "nameKey": "27318f56-7058-474c-8537-1f5eed51d5b4",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "54ce27fe-9dd9-4c0d-8723-8364b92d4e36",
+                    "name": "Nome do Cônjuge",
+                    "nameKey": "54ce27fe-9dd9-4c0d-8723-8364b92d4e36",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "66719458-f0a4-45f4-88b8-23b515fea631",
+                    "name": "Nome do responsável legal",
+                    "nameKey": "66719458-f0a4-45f4-88b8-23b515fea631",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "8322b46a-4cb7-48dc-9634-a22c50fb6699",
+                    "name": "Nome dos\r filhos",
+                    "nameKey": "8322b46a-4cb7-48dc-9634-a22c50fb6699",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "e4b80e33-827a-4df2-98ef-169b48f9240e",
+                    "name": "Número de dependentes",
+                    "nameKey": "e4b80e33-827a-4df2-98ef-169b48f9240e",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "5e0e88fe-5d17-4a09-9ee9-2b4e21e02308",
+                    "name": "Procuração ou termo de representação legal",
+                    "nameKey": "5e0e88fe-5d17-4a09-9ee9-2b4e21e02308",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "7ea4cd04-8099-4a11-b649-93dbe17ce954",
+                    "name": "RG do filho(a)",
+                    "nameKey": "7ea4cd04-8099-4a11-b649-93dbe17ce954",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                }
+            ]
+        },
+        {
+            "id": "70e5254d-162b-472f-899c-fb19b9ec156b",
+            "name": "3 - Trabalhista / Profissional",
+            "nameKey": "70e5254d-162b-472f-899c-fb19b9ec156b",
+            "description": null,
+            "descriptionKey": null,
+            "source": "Unknown",
+            "dataElements": [
+                {
+                    "id": "1a607d32-977b-4ee4-8596-22c1b4b60112",
+                    "name": "Advertências profissionais",
+                    "nameKey": "1a607d32-977b-4ee4-8596-22c1b4b60112",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "bf1a9c37-cb9c-4bda-8c7e-38d635af3dfa",
+                    "name": "Associação profissional",
+                    "nameKey": "bf1a9c37-cb9c-4bda-8c7e-38d635af3dfa",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "fe958e8f-ab17-49df-9383-6eb138482ca5",
+                    "name": "Avaliação de desempenho",
+                    "nameKey": "fe958e8f-ab17-49df-9383-6eb138482ca5",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "f0255362-ad4c-4286-ad01-a91a1a5416de",
+                    "name": "Carta de Referência",
+                    "nameKey": "f0255362-ad4c-4286-ad01-a91a1a5416de",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "a6809f34-b506-4a9e-925e-c00315fcb453",
+                    "name": "Cartão de Ponto",
+                    "nameKey": "a6809f34-b506-4a9e-925e-c00315fcb453",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "34fb0f63-0c0b-4886-a6f5-7a48bc9e7713",
+                    "name": "Centro de Custo",
+                    "nameKey": "34fb0f63-0c0b-4886-a6f5-7a48bc9e7713",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "443aca1d-d418-4c13-832b-e568336c2d6f",
+                    "name": "Certificado",
+                    "nameKey": "443aca1d-d418-4c13-832b-e568336c2d6f",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "e7dd0357-6ad7-44d2-9f58-f2765d90e65f",
+                    "name": "Crachá",
+                    "nameKey": "e7dd0357-6ad7-44d2-9f58-f2765d90e65f",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "eb7ecb17-b602-412c-8538-b183d17a90ae",
+                    "name": "Currículo",
+                    "nameKey": "eb7ecb17-b602-412c-8538-b183d17a90ae",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "2f783391-6449-46a4-8a6b-edab8cb45cae",
+                    "name": "Dados de Sistema",
+                    "nameKey": "2f783391-6449-46a4-8a6b-edab8cb45cae",
+                    "description": "Dados de Sistema",
+                    "descriptionKey": "2f783391-6449-46a4-8a6b-edab8cb45caeDesc",
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "8368f446-5b58-40b1-b02b-9dbd9bab75a1",
+                    "name": "Data de Desligamento",
+                    "nameKey": "8368f446-5b58-40b1-b02b-9dbd9bab75a1",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "69c00134-fc25-40be-96a8-ca1cdc293bf9",
+                    "name": "Data de admissão",
+                    "nameKey": "69c00134-fc25-40be-96a8-ca1cdc293bf9",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "9b7b9089-0cdf-4754-8ebb-19889affc3ac",
+                    "name": "Departamento",
+                    "nameKey": "9b7b9089-0cdf-4754-8ebb-19889affc3ac",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "20346084-9319-4d6c-a8a4-54f5b2ac73c6",
+                    "name": "Detalhes do formulário de candidatura (por exemplo, formulário de candidatura, notas de entrevista, referências)",
+                    "nameKey": "20346084-9319-4d6c-a8a4-54f5b2ac73c6",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "524f8b6d-f479-4f4a-94ba-99a5bddf7258",
+                    "name": "Diplomas",
+                    "nameKey": "524f8b6d-f479-4f4a-94ba-99a5bddf7258",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "80822bc3-9a05-4379-8a26-a162155e425c",
+                    "name": "E-Mail Comercial",
+                    "nameKey": "80822bc3-9a05-4379-8a26-a162155e425c",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "f5f2d677-60bf-4d3f-bc56-241ff43e1b70",
+                    "name": "E-mail Profissional",
+                    "nameKey": "f5f2d677-60bf-4d3f-bc56-241ff43e1b70",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "a5fee2fe-2b81-45a2-8dca-7eee87ba81ae",
+                    "name": "Endereço comercial",
+                    "nameKey": "a5fee2fe-2b81-45a2-8dca-7eee87ba81ae",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "908e35b6-9e93-410e-9deb-038b0871be50",
+                    "name": "Filiação Sindical",
+                    "nameKey": "908e35b6-9e93-410e-9deb-038b0871be50",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "99596b24-2c82-429b-a99e-5cabc5a4d9d0",
+                    "name": "Gerente",
+                    "nameKey": "99596b24-2c82-429b-a99e-5cabc5a4d9d0",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "9bb1eed0-384b-4b83-9ce1-e5e13c0afd8f",
+                    "name": "Gestor hierárquico e departamento/gerência",
+                    "nameKey": "9bb1eed0-384b-4b83-9ce1-e5e13c0afd8f",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "b48464b2-58b9-4c43-ae27-8e1ee11adf09",
+                    "name": "Grau de escolaridade",
+                    "nameKey": "b48464b2-58b9-4c43-ae27-8e1ee11adf09",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "87ed3369-ef33-4ad2-85ad-0d743248fc24",
+                    "name": "Histórico acadêmico (escolaridade, diplomas, graduações, cursos, treinamentos)",
+                    "nameKey": "87ed3369-ef33-4ad2-85ad-0d743248fc24",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "10b160b2-087f-41df-8446-fb990d86fe4a",
+                    "name": "Horas de trabalho",
+                    "nameKey": "10b160b2-087f-41df-8446-fb990d86fe4a",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "00504503-ceec-471f-a9d7-dcb21353235e",
+                    "name": "ID interno do colaborador (matrícula, DRT, BR)",
+                    "nameKey": "00504503-ceec-471f-a9d7-dcb21353235e",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "a530f397-fbc2-427b-84f7-799d54e3ba40",
+                    "name": "Identificação de funcionário/colaborador (externo CRF)",
+                    "nameKey": "a530f397-fbc2-427b-84f7-799d54e3ba40",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "1addd649-3aca-4e5d-88ad-e6ecf01bce36",
+                    "name": "Idiomas / dialetos",
+                    "nameKey": "1addd649-3aca-4e5d-88ad-e6ecf01bce36",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "8f972f60-9d0c-47d6-827b-41382a007cf4",
+                    "name": "Indicadores",
+                    "nameKey": "8f972f60-9d0c-47d6-827b-41382a007cf4",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "3e08a859-3ab5-423f-8788-f68d5d312e53",
+                    "name": "Informações de ponto (horário de entrada, intervalo e saída)",
+                    "nameKey": "3e08a859-3ab5-423f-8788-f68d5d312e53",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "77f21015-7e43-4fb4-b2ba-3cf7e58c9c4e",
+                    "name": "Motivo da Recisão",
+                    "nameKey": "77f21015-7e43-4fb4-b2ba-3cf7e58c9c4e",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "0f42a1f9-c1fe-4f22-97e1-5c4de75b7ee0",
+                    "name": "Nome da loja",
+                    "nameKey": "0f42a1f9-c1fe-4f22-97e1-5c4de75b7ee0",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "0d48031e-7acf-4d38-be3f-96160996255d",
+                    "name": "Nº da proposta",
+                    "nameKey": "0d48031e-7acf-4d38-be3f-96160996255d",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "1743988f-fde8-43b1-b8b9-ddc0b0b64adc",
+                    "name": "Número da loja",
+                    "nameKey": "1743988f-fde8-43b1-b8b9-ddc0b0b64adc",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "d035e358-9c64-4719-85db-59059bf52b8f",
+                    "name": "Números de cartão de crédito corporativo",
+                    "nameKey": "d035e358-9c64-4719-85db-59059bf52b8f",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "71aea292-64b8-41c3-b993-4c47cd9d1862",
+                    "name": "Ocupação/Cargo/Função",
+                    "nameKey": "71aea292-64b8-41c3-b993-4c47cd9d1862",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "f22d949f-7d5c-4bd3-9192-60fb90eac242",
+                    "name": "PIS/PASEP",
+                    "nameKey": "f22d949f-7d5c-4bd3-9192-60fb90eac242",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "bafa5c69-5a89-4cc0-bc59-c4cbda9c09a6",
+                    "name": "Pacote de documentação admissional",
+                    "nameKey": "bafa5c69-5a89-4cc0-bc59-c4cbda9c09a6",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "5c4cf5d4-6c63-48ff-b0c0-37efc2ea52ad",
+                    "name": "Pacote de documentação demissional",
+                    "nameKey": "5c4cf5d4-6c63-48ff-b0c0-37efc2ea52ad",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "3ca4a00f-f894-4e30-b9d3-07a920bef904",
+                    "name": "Participação em Programas do Grupo",
+                    "nameKey": "3ca4a00f-f894-4e30-b9d3-07a920bef904",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "e83e2000-4362-4528-8a34-8c3f574b30ff",
+                    "name": "Profissão",
+                    "nameKey": "e83e2000-4362-4528-8a34-8c3f574b30ff",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "68eb7a24-71f7-4fda-8813-89b5b5d85c1c",
+                    "name": "Registro de faltas",
+                    "nameKey": "68eb7a24-71f7-4fda-8813-89b5b5d85c1c",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "61d67ec2-1595-4b24-85cb-d8b5d50e7c6e",
+                    "name": "Reinvidicações/Reclamações Internas Carrefour",
+                    "nameKey": "61d67ec2-1595-4b24-85cb-d8b5d50e7c6e",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "272101d1-2a54-45f6-bed7-a7d8fb733885",
+                    "name": "TRCT - Termo de Rescisão de Contrato de Trabalho",
+                    "nameKey": "272101d1-2a54-45f6-bed7-a7d8fb733885",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "a4e8bf62-b730-4845-84aa-fa19020dc5a1",
+                    "name": "Telefone comercial",
+                    "nameKey": "a4e8bf62-b730-4845-84aa-fa19020dc5a1",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "2ee62e29-b74b-400b-aa4f-6e1c50b52737",
+                    "name": "Tempo na empresa",
+                    "nameKey": "2ee62e29-b74b-400b-aa4f-6e1c50b52737",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "7a192eae-08cc-4c1b-aeb2-619ad3aaab5c",
+                    "name": "Unidade de Trabalho/Business Unit",
+                    "nameKey": "7a192eae-08cc-4c1b-aeb2-619ad3aaab5c",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                }
+            ]
+        },
+        {
+            "id": "a4b9b7b8-b245-4cf6-a65a-451ce3b689b1",
+            "name": "4 - Saúde",
+            "nameKey": "a4b9b7b8-b245-4cf6-a65a-451ce3b689b1",
+            "description": null,
+            "descriptionKey": null,
+            "source": "Unknown",
+            "dataElements": [
+                {
+                    "id": "3f30a403-5e0f-49c5-865c-4c7400f1fde3",
+                    "name": "Altura",
+                    "nameKey": "3f30a403-5e0f-49c5-865c-4c7400f1fde3",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "6ac919f6-c5a2-40b3-aa90-271062c1b957",
+                    "name": "Atestado / licença médica",
+                    "nameKey": "6ac919f6-c5a2-40b3-aa90-271062c1b957",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "90baf862-a5a8-4efe-8499-2b2152f308df",
+                    "name": "CID da doença/moléstia",
+                    "nameKey": "90baf862-a5a8-4efe-8499-2b2152f308df",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "746d623f-e634-4291-8379-68a418fb8ec9",
+                    "name": "CNS - Cartão Nacional de Saúde",
+                    "nameKey": "746d623f-e634-4291-8379-68a418fb8ec9",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "3a82a00d-7355-448a-b263-896da19cbe14",
+                    "name": "CRM do Médico",
+                    "nameKey": "3a82a00d-7355-448a-b263-896da19cbe14",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "62e4919f-7d4b-4b8d-be89-ee5a55068e37",
+                    "name": "Cartão / carteira de vacina",
+                    "nameKey": "62e4919f-7d4b-4b8d-be89-ee5a55068e37",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "e5338a53-911f-421b-989c-706e0db0bf0c",
+                    "name": "Data de Atualização de Plano",
+                    "nameKey": "e5338a53-911f-421b-989c-706e0db0bf0c",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "c6acfd0c-1538-414c-9168-014e1e11de07",
+                    "name": "Data de Extensão do Plano/Seguro",
+                    "nameKey": "c6acfd0c-1538-414c-9168-014e1e11de07",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "52c57e05-907c-4095-908d-d3390068cbb8",
+                    "name": "Data do atendimento no ambulatório",
+                    "nameKey": "52c57e05-907c-4095-908d-d3390068cbb8",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "1c01aa90-cb35-4759-940b-96e405599e8f",
+                    "name": "Data do atestado médico",
+                    "nameKey": "1c01aa90-cb35-4759-940b-96e405599e8f",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "126fa3dd-70a1-4a9e-9418-e66ffc46eb89",
+                    "name": "Data do procedimento",
+                    "nameKey": "126fa3dd-70a1-4a9e-9418-e66ffc46eb89",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "4c0ddc45-29d2-4ab1-97b2-5804724bf34a",
+                    "name": "Deficiência",
+                    "nameKey": "4c0ddc45-29d2-4ab1-97b2-5804724bf34a",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "2b2041ba-2c9d-47fa-b1c4-0160c8fac33f",
+                    "name": "Dependentes",
+                    "nameKey": "2b2041ba-2c9d-47fa-b1c4-0160c8fac33f",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "df183dca-dfbb-4003-b927-f393531edbc3",
+                    "name": "Diagnóstico médico",
+                    "nameKey": "df183dca-dfbb-4003-b927-f393531edbc3",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "f0086fb1-384d-41e9-93a3-8c933ab5ad1c",
+                    "name": "Dias afastamento",
+                    "nameKey": "f0086fb1-384d-41e9-93a3-8c933ab5ad1c",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "8972ba43-8e93-4e95-a750-23563ebe1e05",
+                    "name": "Exame médico periódico",
+                    "nameKey": "8972ba43-8e93-4e95-a750-23563ebe1e05",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "243d4dba-82fe-4e30-a794-438941140bbb",
+                    "name": "Exames realizados",
+                    "nameKey": "243d4dba-82fe-4e30-a794-438941140bbb",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "33f9dc56-1c2e-40bc-b1db-68a822004b05",
+                    "name": "Exames toxicológicos",
+                    "nameKey": "33f9dc56-1c2e-40bc-b1db-68a822004b05",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "6c06c492-1469-4a0c-a352-4f23cb528269",
+                    "name": "Extensão/Categoria do Plano",
+                    "nameKey": "6c06c492-1469-4a0c-a352-4f23cb528269",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "424936d7-513c-4c20-a5d9-a37cb239e918",
+                    "name": "Histórico de saúde (anamnese, diagnósticos, cirurgias, etc.)",
+                    "nameKey": "424936d7-513c-4c20-a5d9-a37cb239e918",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "e7085adc-cfdd-4956-9c4f-c9e9205b2e67",
+                    "name": "Histórico de saúde médica familiar ou morbidade",
+                    "nameKey": "e7085adc-cfdd-4956-9c4f-c9e9205b2e67",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "94fff741-28c6-4feb-8ca7-bdf6a2c2fad4",
+                    "name": "Histórico médico",
+                    "nameKey": "94fff741-28c6-4feb-8ca7-bdf6a2c2fad4",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "20d411be-29f3-4c70-8f8c-58e14c4f8ced",
+                    "name": "Imagens médicas",
+                    "nameKey": "20d411be-29f3-4c70-8f8c-58e14c4f8ced",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "246784c3-2da6-4385-ae6a-cfba8c68d720",
+                    "name": "Indicação médica",
+                    "nameKey": "246784c3-2da6-4385-ae6a-cfba8c68d720",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "9cad30cb-3b72-4e2e-bc74-714a36c1127b",
+                    "name": "Informação Térmica",
+                    "nameKey": "9cad30cb-3b72-4e2e-bc74-714a36c1127b",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "5b3db55f-50e3-4402-8cfc-1ddb9b2df355",
+                    "name": "Informações de humor",
+                    "nameKey": "5b3db55f-50e3-4402-8cfc-1ddb9b2df355",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "90c69f94-802f-48aa-8478-359ddcb94428",
+                    "name": "Informações de seguro",
+                    "nameKey": "90c69f94-802f-48aa-8478-359ddcb94428",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "009641b7-08da-4c8f-80b2-6124c5384bc1",
+                    "name": "Informações sobre saúde mental",
+                    "nameKey": "009641b7-08da-4c8f-80b2-6124c5384bc1",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "6364dd60-e6c6-44ad-8a08-d269cfb74746",
+                    "name": "Laudo médico",
+                    "nameKey": "6364dd60-e6c6-44ad-8a08-d269cfb74746",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "54efe9fd-f8b7-4edc-9ac0-5bed0229fe09",
+                    "name": "Local do atestado",
+                    "nameKey": "54efe9fd-f8b7-4edc-9ac0-5bed0229fe09",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "1d92f318-0302-455c-a17e-cd03125d9275",
+                    "name": "Medicamento consumido",
+                    "nameKey": "1d92f318-0302-455c-a17e-cd03125d9275",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "e9ebf7c3-db34-42db-8121-d90bbed3e4f9",
+                    "name": "Médico responsável",
+                    "nameKey": "e9ebf7c3-db34-42db-8121-d90bbed3e4f9",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "e326f1fc-af92-418e-ba22-a80c12077880",
+                    "name": "Número da apólice",
+                    "nameKey": "e326f1fc-af92-418e-ba22-a80c12077880",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "54e37154-73ce-4a7c-8ccf-7b6791772d1d",
+                    "name": "Número da carteira no plano de saúde",
+                    "nameKey": "54e37154-73ce-4a7c-8ccf-7b6791772d1d",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "33414613-6851-4b69-b6bf-bd71023e4295",
+                    "name": "Número da prescrição médica",
+                    "nameKey": "33414613-6851-4b69-b6bf-bd71023e4295",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "2be6b97c-5ecb-42f2-89fc-73289ae6d341",
+                    "name": "Número de Contrato do Plano",
+                    "nameKey": "2be6b97c-5ecb-42f2-89fc-73289ae6d341",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "7b9b77ac-1e2e-464b-a12c-c433643dfc33",
+                    "name": "Número de registro médico",
+                    "nameKey": "7b9b77ac-1e2e-464b-a12c-c433643dfc33",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "3068a9a2-4ffb-4e1f-b816-ef48fcc6b069",
+                    "name": "Perícia médica INSS",
+                    "nameKey": "3068a9a2-4ffb-4e1f-b816-ef48fcc6b069",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "de2bf855-a522-49cd-abcb-3414067ddc33",
+                    "name": "Peso",
+                    "nameKey": "de2bf855-a522-49cd-abcb-3414067ddc33",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "d533fdee-b744-4a8e-a564-14b86b76e6df",
+                    "name": "Plano de saúde",
+                    "nameKey": "d533fdee-b744-4a8e-a564-14b86b76e6df",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "52c893fa-200d-42f6-84ac-a8c3aa10e9d4",
+                    "name": "Pressão arterial",
+                    "nameKey": "52c893fa-200d-42f6-84ac-a8c3aa10e9d4",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "95e87cb2-55f5-49ad-8535-bf988a4f53ad",
+                    "name": "Procedimento médico realizado (consulta, exame, procedimento)",
+                    "nameKey": "95e87cb2-55f5-49ad-8535-bf988a4f53ad",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "02c0c6ea-0b68-4a97-8357-32792cfc53e7",
+                    "name": "Prontuário Médico",
+                    "nameKey": "02c0c6ea-0b68-4a97-8357-32792cfc53e7",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "ac15e626-6354-4567-b166-453ac624a2da",
+                    "name": "Quantidade de calorias",
+                    "nameKey": "ac15e626-6354-4567-b166-453ac624a2da",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "b46cdaeb-1b83-4c2d-9de0-f43178167d03",
+                    "name": "Quantidade de passos",
+                    "nameKey": "b46cdaeb-1b83-4c2d-9de0-f43178167d03",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "f3cebc12-e8ce-4a71-98a4-c4a8cbe43a3b",
+                    "name": "Queixa/Sintomas",
+                    "nameKey": "f3cebc12-e8ce-4a71-98a4-c4a8cbe43a3b",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "a518619e-9d43-4373-a538-55e54a85ed0a",
+                    "name": "Receituário médico (medicamentos)",
+                    "nameKey": "a518619e-9d43-4373-a538-55e54a85ed0a",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "78fbf66a-53a2-4f51-a53b-3242f59c1f3c",
+                    "name": "Reembolsos médicos",
+                    "nameKey": "78fbf66a-53a2-4f51-a53b-3242f59c1f3c",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "54dcfeae-6b70-431e-af24-fb37162cc4a6",
+                    "name": "Responsável pelo atendimento",
+                    "nameKey": "54dcfeae-6b70-431e-af24-fb37162cc4a6",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "0f2d2831-9a4d-4422-a360-81f8cc98373a",
+                    "name": "Resultados de exames",
+                    "nameKey": "0f2d2831-9a4d-4422-a360-81f8cc98373a",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "b4ee6dcf-eb78-4da5-b2b4-b56ff0c4f24a",
+                    "name": "Risk assessment de saúde",
+                    "nameKey": "b4ee6dcf-eb78-4da5-b2b4-b56ff0c4f24a",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "38f12521-033b-44c4-a844-f8d8b7f974ed",
+                    "name": "Rubrica do Médico",
+                    "nameKey": "38f12521-033b-44c4-a844-f8d8b7f974ed",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "05323711-48e7-42c2-8e0f-2e5790c8f7bd",
+                    "name": "Tipo de Atendimento",
+                    "nameKey": "05323711-48e7-42c2-8e0f-2e5790c8f7bd",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "18452df0-b769-48a0-af08-6e11ee12cbd3",
+                    "name": "Tipo sanguíneo",
+                    "nameKey": "18452df0-b769-48a0-af08-6e11ee12cbd3",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "731ff983-ec8f-4fe3-8bc9-c7069ae8cae4",
+                    "name": "Tratamento médico",
+                    "nameKey": "731ff983-ec8f-4fe3-8bc9-c7069ae8cae4",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "ca4b36da-7c88-4328-801a-0138c4c881c2",
+                    "name": "Vacinas realizadas",
+                    "nameKey": "ca4b36da-7c88-4328-801a-0138c4c881c2",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "25e0d0fb-65f5-4540-b18c-bc7ddbd4ac6f",
+                    "name": "Valor do procedimento",
+                    "nameKey": "25e0d0fb-65f5-4540-b18c-bc7ddbd4ac6f",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                }
+            ]
+        },
+        {
+            "id": "8c7fa4c7-c8e8-475a-965e-5b18c51bead8",
+            "name": "5 - Financeiro",
+            "nameKey": "8c7fa4c7-c8e8-475a-965e-5b18c51bead8",
+            "description": null,
+            "descriptionKey": null,
+            "source": "Unknown",
+            "dataElements": [
+                {
+                    "id": "c4091ac4-9d3a-4908-8f6a-fd45f93a6d99",
+                    "name": "ARN da transação",
+                    "nameKey": "c4091ac4-9d3a-4908-8f6a-fd45f93a6d99",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "334e18a3-3f86-4689-86b6-83d1f319836a",
+                    "name": "Agência",
+                    "nameKey": "334e18a3-3f86-4689-86b6-83d1f319836a",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "374b3d38-f854-4375-b89d-2c1871feaa3c",
+                    "name": "Aplicações financeiras",
+                    "nameKey": "374b3d38-f854-4375-b89d-2c1871feaa3c",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "082f5d15-4a30-4b42-8fdd-867fe4dbd497",
+                    "name": "BIN (número de identificação bancária) - cartão de crédito",
+                    "nameKey": "082f5d15-4a30-4b42-8fdd-867fe4dbd497",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "858e99f3-ff58-4394-a50f-f72c2d185c65",
+                    "name": "Benefícios financeiros (bônus, PLR)",
+                    "nameKey": "858e99f3-ff58-4394-a50f-f72c2d185c65",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "0fe9866b-0051-4e41-b2d4-8e4d8f123b1f",
+                    "name": "CVV",
+                    "nameKey": "0fe9866b-0051-4e41-b2d4-8e4d8f123b1f",
+                    "description": "CVV",
+                    "descriptionKey": "0fe9866b-0051-4e41-b2d4-8e4d8f123b1fDesc",
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "959ddf36-f9fd-4e2f-8e03-e501b8321ace",
+                    "name": "Cartao de Crédito",
+                    "nameKey": "959ddf36-f9fd-4e2f-8e03-e501b8321ace",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "d6dd884f-2afc-46b1-a1dd-0c9183467d9e",
+                    "name": "Chave PIX",
+                    "nameKey": "d6dd884f-2afc-46b1-a1dd-0c9183467d9e",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "a1c04a3e-bd27-4abe-a8a2-cdc406832d4f",
+                    "name": "Comprovante de pagamento",
+                    "nameKey": "a1c04a3e-bd27-4abe-a8a2-cdc406832d4f",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "a0963648-c11d-4903-91e5-eeed256b5f44",
+                    "name": "Conta bancaria",
+                    "nameKey": "a0963648-c11d-4903-91e5-eeed256b5f44",
+                    "description": "Conta bancaria",
+                    "descriptionKey": "a0963648-c11d-4903-91e5-eeed256b5f44Desc",
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "80924da8-dcd1-4a98-846c-cb05e1316113",
+                    "name": "Dados de renda familiar",
+                    "nameKey": "80924da8-dcd1-4a98-846c-cb05e1316113",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "d9325631-9111-4085-8d66-0b4dcbf049cc",
+                    "name": "Extrato Carrefour Prev",
+                    "nameKey": "d9325631-9111-4085-8d66-0b4dcbf049cc",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "b07620e0-1c0d-4474-86d6-d8f049dcad84",
+                    "name": "Extrato FGTS",
+                    "nameKey": "b07620e0-1c0d-4474-86d6-d8f049dcad84",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "e5dae687-54d8-41d1-8050-342b421e2a37",
+                    "name": "Faturas do cartão",
+                    "nameKey": "e5dae687-54d8-41d1-8050-342b421e2a37",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "bc904888-70c9-40c3-b170-dc25932d93fc",
+                    "name": "Histórico de Compras",
+                    "nameKey": "bc904888-70c9-40c3-b170-dc25932d93fc",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "124ff5d5-85be-487e-88e0-6fd5a90e0706",
+                    "name": "Histórico de Crédito",
+                    "nameKey": "124ff5d5-85be-487e-88e0-6fd5a90e0706",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "3913b8b5-91f8-4387-a0f6-44368b4f20e8",
+                    "name": "Histórico de rendimentos",
+                    "nameKey": "3913b8b5-91f8-4387-a0f6-44368b4f20e8",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "374f1b7f-1837-4416-980e-aefba1e1a708",
+                    "name": "Histórico de salário",
+                    "nameKey": "374f1b7f-1837-4416-980e-aefba1e1a708",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "2f91556c-48ed-4d1b-8e88-2d117502981f",
+                    "name": "Histórico de transações financeiras em outras instituições",
+                    "nameKey": "2f91556c-48ed-4d1b-8e88-2d117502981f",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "c7e22f35-5046-4201-b524-20844b0c1b26",
+                    "name": "Histórico de transações financeiras no Carrefour Soluções Financeiras",
+                    "nameKey": "c7e22f35-5046-4201-b524-20844b0c1b26",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "12530c27-6d8a-4ae2-8185-92095fd7be3c",
+                    "name": "Histórico do uso de seguro",
+                    "nameKey": "12530c27-6d8a-4ae2-8185-92095fd7be3c",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "67bb8e23-f0a5-44fa-b9d0-126af64a2fdc",
+                    "name": "Histórico financeiro (empréstimos, créditos, débitos pendentes, Serasa, SPC, etc.)",
+                    "nameKey": "67bb8e23-f0a5-44fa-b9d0-126af64a2fdc",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "c3fbd053-bf80-4065-9927-f7c99f203f52",
+                    "name": "Imposto de Renda",
+                    "nameKey": "c3fbd053-bf80-4065-9927-f7c99f203f52",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "fdf3e3b9-2f9f-43bc-8b7d-e084dc751600",
+                    "name": "Informações de Cartão de Crédito",
+                    "nameKey": "fdf3e3b9-2f9f-43bc-8b7d-e084dc751600",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "a15653e3-9d6c-4fc5-8fde-e4541d5a5802",
+                    "name": "Informações do Cartão Pamcard Caminhoneiro",
+                    "nameKey": "a15653e3-9d6c-4fc5-8fde-e4541d5a5802",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "ec88676a-896f-4cb8-9884-796113bd75e5",
+                    "name": "Limite de crédito",
+                    "nameKey": "ec88676a-896f-4cb8-9884-796113bd75e5",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "acdaeb9a-932b-430c-82d1-1691336be484",
+                    "name": "Limite do cartão",
+                    "nameKey": "acdaeb9a-932b-430c-82d1-1691336be484",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "ed6de245-6c9f-4b69-8b77-223ff4d3abc1",
+                    "name": "Nome do titular do cartão",
+                    "nameKey": "ed6de245-6c9f-4b69-8b77-223ff4d3abc1",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "27117433-ae29-4d6b-b7e3-1fd627748788",
+                    "name": "Nota Fiscal",
+                    "nameKey": "27117433-ae29-4d6b-b7e3-1fd627748788",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "537f14e6-926e-40f9-bf42-797e66fbbc4a",
+                    "name": "Número PIN, CAV2, CVC2, CVV2, CID",
+                    "nameKey": "537f14e6-926e-40f9-bf42-797e66fbbc4a",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "f0cab229-5511-402f-a83c-cc6547ecac42",
+                    "name": "Patrimônio",
+                    "nameKey": "f0cab229-5511-402f-a83c-cc6547ecac42",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "5b654ce0-4d1d-470b-9fd0-4f07f67ae51a",
+                    "name": "Perfil de risco",
+                    "nameKey": "5b654ce0-4d1d-470b-9fd0-4f07f67ae51a",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "44af9e80-609e-4df9-a7cc-eae18cde5e2e",
+                    "name": "Programas sociais e/ou financeiros (Bolsa Família, Seguro Desemprego, Auxílio emergencial, FIES, etc.)",
+                    "nameKey": "44af9e80-609e-4df9-a7cc-eae18cde5e2e",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "525caac8-20ac-4850-aad3-61614702339b",
+                    "name": "Registros de propriedades pessoais",
+                    "nameKey": "525caac8-20ac-4850-aad3-61614702339b",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "c1c4227f-8164-4507-9695-378cb66bd1d7",
+                    "name": "Renda presumida",
+                    "nameKey": "c1c4227f-8164-4507-9695-378cb66bd1d7",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "558804e1-4e41-493e-a882-35a76d2aa1f8",
+                    "name": "Restrições no Serasa",
+                    "nameKey": "558804e1-4e41-493e-a882-35a76d2aa1f8",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "095f56d7-03a8-4307-adc9-4eb1996a1157",
+                    "name": "Saldo devedor",
+                    "nameKey": "095f56d7-03a8-4307-adc9-4eb1996a1157",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "caa45106-cde9-44db-bc83-6e7a1f1b1b8b",
+                    "name": "Salário",
+                    "nameKey": "caa45106-cde9-44db-bc83-6e7a1f1b1b8b",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "c955edd6-9e68-4009-9587-8fbacba7009c",
+                    "name": "Salário e outros rendimentos",
+                    "nameKey": "c955edd6-9e68-4009-9587-8fbacba7009c",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "26b6e39c-5a53-4267-ad72-e2f4af46b6b0",
+                    "name": "Score de Crédito",
+                    "nameKey": "26b6e39c-5a53-4267-ad72-e2f4af46b6b0",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "53f9fe39-a9f4-428a-9cd4-6ed2d3efd775",
+                    "name": "Senha do cartão",
+                    "nameKey": "53f9fe39-a9f4-428a-9cd4-6ed2d3efd775",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "4c4ef7ab-16ff-433b-9e65-e4908820a46d",
+                    "name": "Transações financeiras",
+                    "nameKey": "4c4ef7ab-16ff-433b-9e65-e4908820a46d",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "c723d801-23b6-4108-a9cb-5e44ba08bf3c",
+                    "name": "Vencimento da Fatura",
+                    "nameKey": "c723d801-23b6-4108-a9cb-5e44ba08bf3c",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                }
+            ]
+        },
+        {
+            "id": "ad9a8b10-134d-4815-90bb-b87c7e9bf20b",
+            "name": "6 - Consumo",
+            "nameKey": "ad9a8b10-134d-4815-90bb-b87c7e9bf20b",
+            "description": null,
+            "descriptionKey": null,
+            "source": "Unknown",
+            "dataElements": [
+                {
+                    "id": "21af3989-bf80-485c-a425-a373344d2a62",
+                    "name": "Faixa de pontuação - Programa de Fidelidade",
+                    "nameKey": "21af3989-bf80-485c-a425-a373344d2a62",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "6ee1a59c-7797-4fd8-b6df-09b3714a1224",
+                    "name": "Histórico de ofertas / cupons / promoções personalizadas",
+                    "nameKey": "6ee1a59c-7797-4fd8-b6df-09b3714a1224",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "95605d84-7e34-4654-b272-88571f22dc09",
+                    "name": "Identificador/código de compra",
+                    "nameKey": "95605d84-7e34-4654-b272-88571f22dc09",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "e1f2297d-cb93-4647-b071-73c5b6fb212b",
+                    "name": "Informações de entrega, devolução de produto",
+                    "nameKey": "e1f2297d-cb93-4647-b071-73c5b6fb212b",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "01a7147c-0f54-4480-b59a-661b50060df7",
+                    "name": "Itens / lista de compra",
+                    "nameKey": "01a7147c-0f54-4480-b59a-661b50060df7",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "f34c0ca6-a0a4-46bc-9cc9-927b120fbf39",
+                    "name": "Método de pagamento",
+                    "nameKey": "f34c0ca6-a0a4-46bc-9cc9-927b120fbf39",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "fcc32f55-2198-4d1f-81e2-9d4e33e476dd",
+                    "name": "Preferências / hábito / perfil / comportamento de consumo (Profilling)",
+                    "nameKey": "fcc32f55-2198-4d1f-81e2-9d4e33e476dd",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "1aef69ae-35ee-4de0-8b0b-c7c6cf3e77f7",
+                    "name": "Quantas Vezes O Cliente Frequenta A Loja",
+                    "nameKey": "1aef69ae-35ee-4de0-8b0b-c7c6cf3e77f7",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "0fa2abef-17b0-49ae-ae8e-45f0f131ee00",
+                    "name": "Reclamação/reivindicação sobre produto",
+                    "nameKey": "0fa2abef-17b0-49ae-ae8e-45f0f131ee00",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "4ebb82df-7184-40aa-88ec-136efd020135",
+                    "name": "Reclamações envolvendo o titular e o Carrefour",
+                    "nameKey": "4ebb82df-7184-40aa-88ec-136efd020135",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "d28aa519-ef36-4a57-979d-c8f11188a959",
+                    "name": "Valor de compra",
+                    "nameKey": "d28aa519-ef36-4a57-979d-c8f11188a959",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                }
+            ]
+        },
+        {
+            "id": "c2138e8d-00f3-4341-8696-0920e1df2337",
+            "name": "7 - Digital",
+            "nameKey": "c2138e8d-00f3-4341-8696-0920e1df2337",
+            "description": null,
+            "descriptionKey": null,
+            "source": "Unknown",
+            "dataElements": [
+                {
+                    "id": "02fc2dae-6a72-4a1d-a660-315f4f9de474",
+                    "name": "Browser utilizado",
+                    "nameKey": "02fc2dae-6a72-4a1d-a660-315f4f9de474",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "d69677f4-d85b-4de6-8490-801be0773774",
+                    "name": "Browsing Time",
+                    "nameKey": "d69677f4-d85b-4de6-8490-801be0773774",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "d0a5437f-42a7-4c3b-8668-49994bac1dc5",
+                    "name": "ClickStream / Rastreamento de WebSite",
+                    "nameKey": "d0a5437f-42a7-4c3b-8668-49994bac1dc5",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "d1a43754-2aef-4193-a340-264860330552",
+                    "name": "CoreID",
+                    "nameKey": "d1a43754-2aef-4193-a340-264860330552",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "b3b0e4db-972a-433d-ba65-f05f9dcf6440",
+                    "name": "Dados do Dispositivo Móvel",
+                    "nameKey": "b3b0e4db-972a-433d-ba65-f05f9dcf6440",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "56a95414-1bb8-4ce3-91aa-a532de09e818",
+                    "name": "Endereço de IP",
+                    "nameKey": "56a95414-1bb8-4ce3-91aa-a532de09e818",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "433db6a0-e9dc-43e4-a7ab-c9d2702d52b1",
+                    "name": "Geolocalização",
+                    "nameKey": "433db6a0-e9dc-43e4-a7ab-c9d2702d52b1",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "69da0d86-da59-4254-b98c-26e463dea663",
+                    "name": "Histórico de navegação",
+                    "nameKey": "69da0d86-da59-4254-b98c-26e463dea663",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "d948c659-5ebb-4188-b528-46c10296aa58",
+                    "name": "Horário de navegação",
+                    "nameKey": "d948c659-5ebb-4188-b528-46c10296aa58",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "ce731412-008a-4f0a-a50b-d6dd0422f998",
+                    "name": "ID de Dispositivo Móvel",
+                    "nameKey": "ce731412-008a-4f0a-a50b-d6dd0422f998",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "db8067b7-1527-4f11-93cc-68372509a567",
+                    "name": "ID de cadastro/ARN do cliente",
+                    "nameKey": "db8067b7-1527-4f11-93cc-68372509a567",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "a237f555-19eb-46d3-bc2a-15dfa867029a",
+                    "name": "Identificação único de dispositivo (IMEI)",
+                    "nameKey": "a237f555-19eb-46d3-bc2a-15dfa867029a",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "77454c7d-4316-4ad3-9faa-1b74fc855927",
+                    "name": "Informação em áudio",
+                    "nameKey": "77454c7d-4316-4ad3-9faa-1b74fc855927",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "0f16287d-b75c-42b1-9769-bf321238cbad",
+                    "name": "Informações no calendário e agenda",
+                    "nameKey": "0f16287d-b75c-42b1-9769-bf321238cbad",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "1fe6f8c7-c6cb-45c7-b7a4-4f1ccd0fa54b",
+                    "name": "Login",
+                    "nameKey": "1fe6f8c7-c6cb-45c7-b7a4-4f1ccd0fa54b",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "33fcce5e-0d35-4ef2-acb9-20ebc08f93b0",
+                    "name": "MAC Address",
+                    "nameKey": "33fcce5e-0d35-4ef2-acb9-20ebc08f93b0",
+                    "description": "MAC Address",
+                    "descriptionKey": "33fcce5e-0d35-4ef2-acb9-20ebc08f93b0Desc",
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "747ff6a4-e109-4638-a4b5-b9e00e6f2e93",
+                    "name": "MAC Address ou número de série",
+                    "nameKey": "747ff6a4-e109-4638-a4b5-b9e00e6f2e93",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "d8c939e7-a1e0-49ad-9eba-36d48bcb1629",
+                    "name": "Modelo do Celular",
+                    "nameKey": "d8c939e7-a1e0-49ad-9eba-36d48bcb1629",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "5b782e3c-c793-4ff5-bf2b-a2f632b56059",
+                    "name": "Modelo do Computador",
+                    "nameKey": "5b782e3c-c793-4ff5-bf2b-a2f632b56059",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "9c217d52-dea1-44b8-b96a-11c4165fc71d",
+                    "name": "Perfil em mídia social (Instagram, Facebook, Twitter, etc.)",
+                    "nameKey": "9c217d52-dea1-44b8-b96a-11c4165fc71d",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "80ed4d75-33a4-4921-9e87-c10b74a7576c",
+                    "name": "Pixels",
+                    "nameKey": "80ed4d75-33a4-4921-9e87-c10b74a7576c",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "84aeb155-e512-4544-a6c5-202b6f1bf396",
+                    "name": "Preferências de navegação na Internet",
+                    "nameKey": "84aeb155-e512-4544-a6c5-202b6f1bf396",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "6e522971-ed94-498d-83da-6286f367d3a0",
+                    "name": "RampID",
+                    "nameKey": "6e522971-ed94-498d-83da-6286f367d3a0",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "41874687-2d75-45ea-aaa9-87bb765a56e0",
+                    "name": "Rotina de monitoramento de Ambiente Físico",
+                    "nameKey": "41874687-2d75-45ea-aaa9-87bb765a56e0",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "9eeb5b95-4fba-4a2a-9ac5-387330b9582a",
+                    "name": "SDK ou Cookies",
+                    "nameKey": "9eeb5b95-4fba-4a2a-9ac5-387330b9582a",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "21cc8d0e-4d70-42c2-9e02-daa34e9f5017",
+                    "name": "Senha de acesso ao computador",
+                    "nameKey": "21cc8d0e-4d70-42c2-9e02-daa34e9f5017",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "bcebcede-d16e-4244-91e0-aad5c07e99e2",
+                    "name": "Senha do software/ferramenta/sistema",
+                    "nameKey": "bcebcede-d16e-4244-91e0-aad5c07e99e2",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "4421cc0c-f3eb-4359-997f-004b5cda79f3",
+                    "name": "Sistema Operacional",
+                    "nameKey": "4421cc0c-f3eb-4359-997f-004b5cda79f3",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "b991c10a-0923-486d-a4fc-7472b0b43cc8",
+                    "name": "Versão do Sistema Operacional",
+                    "nameKey": "b991c10a-0923-486d-a4fc-7472b0b43cc8",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "8fd17609-a1eb-4477-864d-9aae820acc72",
+                    "name": "Vídeo",
+                    "nameKey": "8fd17609-a1eb-4477-864d-9aae820acc72",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                }
+            ]
+        },
+        {
+            "id": "b5831c46-7332-48e2-89b0-42895fb4dd6b",
+            "name": "8 - Vida pessoal",
+            "nameKey": "b5831c46-7332-48e2-89b0-42895fb4dd6b",
+            "description": null,
+            "descriptionKey": null,
+            "source": "Unknown",
+            "dataElements": [
+                {
+                    "id": "0d29c0de-f871-4703-935e-962febebec8e",
+                    "name": "Antecedentes criminais (background check)",
+                    "nameKey": "0d29c0de-f871-4703-935e-962febebec8e",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "19d2cd29-1c70-426f-8d0c-7e486d20252e",
+                    "name": "Associações políticas",
+                    "nameKey": "19d2cd29-1c70-426f-8d0c-7e486d20252e",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "0a6aac65-0d1c-4ae9-8712-e9bc287cc66e",
+                    "name": "Crenças religiosas ou filosóficas",
+                    "nameKey": "0a6aac65-0d1c-4ae9-8712-e9bc287cc66e",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "8b69aa56-e467-4cba-a673-3603a06c641d",
+                    "name": "Filiação/posicionamento político",
+                    "nameKey": "8b69aa56-e467-4cba-a673-3603a06c641d",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "32108e68-ba58-434b-a5bf-6eaddec814e9",
+                    "name": "Histórico de infrações ou processos judiciais",
+                    "nameKey": "32108e68-ba58-434b-a5bf-6eaddec814e9",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "51cefb37-6925-434f-81fe-88f798a2bab1",
+                    "name": "Lazer / Interesse",
+                    "nameKey": "51cefb37-6925-434f-81fe-88f798a2bab1",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "30e3400b-16cb-4a1d-9ec1-1598a2427930",
+                    "name": "Orientação/Opção Sexual",
+                    "nameKey": "30e3400b-16cb-4a1d-9ec1-1598a2427930",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "447da8aa-2168-45d5-9752-c4a44cf00b2e",
+                    "name": "Processos em andamento / concluídos",
+                    "nameKey": "447da8aa-2168-45d5-9752-c4a44cf00b2e",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "cfeef9d6-9da1-44e4-9755-b2be0369cdbd",
+                    "name": "Registro de Ligações",
+                    "nameKey": "cfeef9d6-9da1-44e4-9755-b2be0369cdbd",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "c20611b5-3179-4306-99e7-6802a5c564e0",
+                    "name": "Signo",
+                    "nameKey": "c20611b5-3179-4306-99e7-6802a5c564e0",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                },
+                {
+                    "id": "ade667c4-6115-4edd-8575-a52be3edc0a8",
+                    "name": "Transexualidade",
+                    "nameKey": "ade667c4-6115-4edd-8575-a52be3edc0a8",
+                    "description": null,
+                    "descriptionKey": null,
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                }
+            ]
+        },
+        {
+            "id": "57f3516f-1d60-4f2d-bcc8-d16c57bcf14e",
+            "name": "BigID Category",
+            "nameKey": "57f3516f-1d60-4f2d-bcc8-d16c57bcf14e",
+            "description": null,
+            "descriptionKey": null,
+            "source": "Unknown",
+            "dataElements": [
+                {
+                    "id": "60fc8a6c-3193-46ae-8945-76f1fbe93dc0",
+                    "name": "Terceiros Nome Fantasia",
+                    "nameKey": "60fc8a6c-3193-46ae-8945-76f1fbe93dc0",
+                    "description": "Terceiros Nome Fantasia",
+                    "descriptionKey": "60fc8a6c-3193-46ae-8945-76f1fbe93dc0Desc",
+                    "source": null,
+                    "status": null,
+                    "visible": true
+                }
+            ]
+        }
+    ]
+}
